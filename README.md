@@ -55,6 +55,17 @@
 - 🧪 Designed testable and CI-ready APIs using **Postman**, **WSO2 Unit Tests**, and **GitHub Actions**
 - ☁️ Deployed full-stack apps to **Vercel**, **Firebase Hosting**, and on-premises servers
 - 📦 Integrated message brokers like **RabbitMQ** and **IBM MQ** into backend pipelines
+  
+---
+
+### 🥇 GitHub Achievements
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" title="Pair Extraordinaire" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80" title="Galaxy Brain" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO" />
+</p>
 
 ---
 
