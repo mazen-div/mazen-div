@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🧑‍🏭 Currently working as a **Software Integration Engineer** at ** Saudi Arabia MEWA – Ministry of Environment, Water & Agriculture**
+- 🧑‍🏭 Currently working as a **Software Integration Engineer** at **Saudi Arabia MEWA – Ministry of Environment, Water & Agriculture**
 - 🧠 Middleware Developer (WSO2 | WebMethods | IBM ACE)
 - 🔌 API Integration Expert (API Gateway, OAuth2, REST/SOAP)
 - 🌐 Frontend Developer (React, Firebase, Tailwind)
