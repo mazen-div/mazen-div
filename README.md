@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 About Me
-
+- 🧑‍🏭 Currently working as a **Software Integration Engineer** at **MEWA – Ministry of Environment, Water & Agriculture, Saudi Arabia**
 - 🧠 Middleware Developer (WSO2 | WebMethods | IBM ACE)
 - 🔌 API Integration Expert (API Gateway, OAuth2, REST/SOAP)
 - 🌐 Frontend Developer (React, Firebase, Tailwind)
@@ -46,19 +46,23 @@
 
 ---
 
-### 📌 Featured Projects
+### 📌 Featured Work & Contributions
 
-- 🚀 [CDC Cairo Website](https://cdc-cairo.com) — React + Firebase + Vercel
-- 🔄 WSO2 API Gateway demo with token-based security
-- 🛠 Integration with RabbitMQ / WebMethods / Java API
+- 🚀 Built **real-world integration flows** using **WSO2**, **IBM ACE**, and **webMethods**
+- 🔐 Implemented **secure API Gateways** with OAuth2, JWT, and policy enforcement
+- ⚙️ Developed custom **microservices** and middleware connectors for internal platforms
+- 🌐 Created modern frontend UIs with **React**, **Firebase**, and **Tailwind CSS**
+- 🧪 Designed testable and CI-ready APIs using **Postman**, **WSO2 Unit Tests**, and **GitHub Actions**
+- ☁️ Deployed full-stack apps to **Vercel**, **Firebase Hosting**, and on-premises servers
+- 📦 Integrated message brokers like **RabbitMQ** and **IBM MQ** into backend pipelines
 
 ---
 
 ### 🌍 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mazen-div)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/devmazen/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/mazen-div)
-[![Email](https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail)](mailto:engmazen740@gmail.com)
 
 ---
 
