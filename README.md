@@ -26,9 +26,23 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mazen-div&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazen-div&theme=radical" height="180" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mazen-div&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" width="48%" />
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=mazen-div&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazen-div&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+</p>
+
+<!-- Optional Trophies (fun) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mazen-div&theme=tokyonight&margin-w=10&no-frame=true" width="90%" />
+</p>
+
 
 ---
 
