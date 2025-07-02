@@ -1,7 +1,7 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e7490&height=200&section=header&text=Hi%20I'm%20Mazen!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<h2 align="center">💻 Middleware Engineer | ⚙️ Integration Specialist | 🌍 Open to Freelance</h2>
+<h2 align="center">💻 Middleware Engineer | ⚙️ Integration Specialist </h2>
 
 ---
 
